@@ -14,6 +14,8 @@ namespace AppHack2021RealtyMoleFBI
         [STAThread]
         static void Main()
         {
+
+            //test
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
