@@ -16,6 +16,7 @@ namespace AppHack2021RealtyMoleFBI
         {
 
             //test
+            //showing Tommy
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
